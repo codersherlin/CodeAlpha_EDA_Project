@@ -1,22 +1,39 @@
-# CodeAlpha_EDA_Project
 # CodeAlpha Data Analytics Internship – EDA Project
 
-## Task:
+## 📌 Task
 Exploratory Data Analysis (EDA)
 
-## Dataset:
-Titanic Dataset
+## 📊 Dataset
+Titanic Dataset (Passenger Survival Data)
 
-## Tools Used:
+## 🛠️ Tools & Technologies Used
 - Python
 - Pandas
 - Matplotlib
 - Seaborn
 
-## Key Insights:
-- Females survived more than males
-- Higher class passengers had higher survival rate
-- Age and fare influenced survival
+## 🔍 Objective
+To explore and understand the dataset by analyzing patterns, trends, and relationships between different variables using statistical methods and visualizations.
 
-## Author:
+## 📈 Analysis Performed
+- Data structure and data types inspection
+- Missing value detection
+- Statistical summary of numerical features
+- Survival analysis
+- Gender-based survival comparison
+- Age distribution analysis
+- Correlation analysis using heatmap
+
+## ✅ Key Insights
+- Female passengers had a higher survival rate compared to males
+- Passengers in higher classes showed better survival chances
+- Younger passengers had higher survival probability
+- Fare and survival showed a positive correlation
+
+## 📂 Project Structure
+
+## 👤 Author
 Sherlin Neha
+
+## 🔗 Internship
+CodeAlpha – Data Analytics Internship
